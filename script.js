@@ -6,7 +6,7 @@ const convertBtn = document.getElementById('convert-btn');
 const rateDisplay = document.getElementById('rate-display');
 const resultDisplay = document.getElementById('result-display');
 const errorMessage = document.getElementById('error-message');
-const API_URL = 'https://currecnyconverter.onrender.com//api/rates';
+const API_URL = 'https://currencyconverter.onrender.com/api/rates';
 
 
 document.addEventListener('DOMContentLoaded', () => {
